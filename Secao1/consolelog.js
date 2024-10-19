@@ -15,3 +15,11 @@ console.log(`Meu nome é "Rian", sou estudante de ADS do primeiro semestre, faz 
 console.log('Venho estudando com mais frequência e planejo estagiar daqui há 6 meses. Em 2 anos quero ampliar meu conhecimento na área de maneira expansiva e me fixar no mercado de trabalho de TI, como programador.')
 
 console.log('Espero me tornar o profissional que desejo, ajudar pessoas na área, conhecer pessoas e quem sabe ser referência na profissão. Ainda vou ajudar muito as pessoas ao meu redor!')
+
+/*  
+console.log('mais um dia de estudos, nem no final de semana terá tempo para ficar parado')
+
+!!!Esse é um comentário de bloco 
+*/
+
+//Professor estava falando sobre a importância dos conmentáriods e quando usa-los.     !!!Esse é um comentário de linha
