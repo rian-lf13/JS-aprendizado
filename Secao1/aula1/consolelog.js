@@ -23,3 +23,5 @@ console.log('mais um dia de estudos, nem no final de semana terá tempo para fic
 */
 
 //Professor estava falando sobre a importância dos conmentáriods e quando usa-los.     !!!Esse é um comentário de linha
+
+//Fiz uma mudança para outra pasta mantendo o mais organuzado possível
