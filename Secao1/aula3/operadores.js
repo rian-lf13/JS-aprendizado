@@ -21,3 +21,15 @@ const num5 = '10.8';
 const resultado = parseFloat('10.8');
 
 console.log(num4 * resultado / num1);
+
+// Exercício de fixação
+
+let valor1 = 13;
+let valor2 = 26;
+let valor3 = 5;
+
+const som = valor1 + valor2 + valor3;
+const multi = (valor1 * valor2) - valor3;
+const divi = valor2/valor1;
+
+console.log(divi);
