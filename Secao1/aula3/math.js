@@ -18,10 +18,8 @@ Ex.: 9.51>10 ou 9.49<9*/
 // console.log(Math.max(1,2,3,-10,1500,326,2222,154));
 /*Nesse exemplo revela o maior número dentro de uma sequência.*/
 
-
 // console.log(Math.min(1,2,3,-10,1500,326,2222,154));
 /*Nesse exemplo revela o menor número dentro de uma sequência.*/
-
 
 // console.log(Math.random());
 //É gerado um número aleatório entre 0 e 1
