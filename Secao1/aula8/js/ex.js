@@ -12,7 +12,16 @@ function meuEscopo () {
         const peso= form.querySelector('.peso');
         const altura= form.querySelector('.altura');
 
-        console.log(nome.ariaValueMax, sobrenome, peso, altura);
+        pessoas.push({
+            nome: nome.value,
+            sobrenome: sobrenome.value,
+            peso: peso.value,
+            altura: altura.value
+        });
+
+        console.log(pessoas);
+
+        resultado.innerHTML+= `<p>${nome.value} ${sobrenome.value} `+ `${peso.value} ${altura.value}</p>`
 
     };
 
