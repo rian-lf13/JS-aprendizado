@@ -7,7 +7,7 @@ Operadores lógicos
 
 const expressaoAnd = true && true && true && false;/*exemplo &&*/
 const expressaoOr = true || false;/*exemplo ||*/
-console.log(expressaoOr); 
+console.log(expressaoOr||expressaoAnd); 
 console.log(!true);/*exemplo de ! */
 
 

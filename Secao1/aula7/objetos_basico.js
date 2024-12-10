@@ -9,22 +9,22 @@
 //     idade: 24
 // };
 
-// / console.log(pessoa1.sobrenome);
+// console.log(pessoa1.sobrenome);
 
 
-/*function criaPessoa(nome, sobrenome, idade) {
-     return{nome, sobrenome,idade
-     }
-};
+// function criaPessoa(nome, sobrenome, idade) {
+//      return{nome, sobrenome,idade
+//      }
+// };
 
-const pessoa1= criaPessoa('Luiz', 'Nascimento', 16);
-const pessoa2= criaPessoa('Larissa', 'Rodrigues', 61);
-const pessoa3= criaPessoa('Carlos', 'Santos', 31);
+// const pessoa1= criaPessoa('Luiz', 'Nascimento', 16);
+// const pessoa2= criaPessoa('Larissa', 'Rodrigues', 61);
+// const pessoa3= criaPessoa('Carlos', 'Santos', 31);
 
-console.log(pessoa1.idade, pessoa2.nome, pessoa3.sobrenome);
+// console.log(pessoa1.idade, pessoa2.nome, pessoa3.sobrenome);
 
 // nesse exemplo é usado função para retornar as informações guardadas em objetivos e alterada por const.
-*/
+
 
 /*const pessoa1 = {
     nome:'Luiz',
