@@ -21,3 +21,10 @@ const num1= 10;
 const num2= 5;
 const result= num1 >= num2;
 console.log(result);
+
+const num1= 15;
+const num2= num1 + 15;
+const num3= 31;
+const result= num2 + num3;
+
+console.log(result <= num3);
