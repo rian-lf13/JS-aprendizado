@@ -31,10 +31,15 @@ NaN
 
 // console.log(corPadrao);
 
-const a= 0;
-const b= null;
-const c= 'false';
-const d= false; /* Correto. Esse é o valor real de false */
-const e= NaN;
+// const a= 0;
+// const b= null;
+// const c= 'false';
+// const d= 0; /* Correto. Esse é o valor real de false */
+// const e= NaN;
 
-console.log(a||b||c||d||e);
+// console.log(a||b||c||d||e);
+
+const marcaCarro = 'Hyundai';
+const resultado= marcaCarro || 'Toyota'
+
+console.log(resultado);
