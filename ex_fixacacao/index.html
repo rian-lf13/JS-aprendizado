@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora média escolar</title>
+
+    <link rel="stylesheet" href="assets/css/estilo.css">
+</head>
+<body>
+    <header class="title">
+        <h1>Calculadora de média escolar</h1>
+    </header>
+
+    <main>
+        <div class="container">
+            <form action="/" id="form" method="post" class="container__form">
+                
+                <label for="grade1">Nota1</label>
+                <input type="number"id="grade1" required>
+
+                <label for="grade2">Nota2</label>
+                <input type="number"id="grade2" required>
+
+                <label for="grade3">Nota3</label>
+                <input type="number"id="grade3" required>
+
+                <label for="grade4">Nota4</label>
+                <input type="number"id="grade4" required>
+
+                <button type="button" id="calculate">Calcular</button>
+                
+            </form>
+
+            <p id="result"></p>
+        </div>
+    </main>
+    
+
+    <script src="assets/js/script.js"></script>
+</body>
+</html>

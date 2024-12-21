@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    background: linear-gradient(to right, rgb(198, 253, 248), rgb(89, 172, 210));
+    text-align: center;
+}
+
+.title {
+    background-color: rgba(255, 255, 255, 0.422);
+    padding: 8px;
+    margin: 5% 15%;
+    max-height: fit-content;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.651);
+}
+
+.title h1{
+    text-transform: uppercase;
+    font-size: 27px;
+}
+
+.container{
+    background-color: rgba(255, 255, 255, 0.63);
+    padding: 50px;
+    margin: 0 auto;
+    width: 60%;
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.651);
+}
+
+.container__form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.container__form button{
+    background-color: white;
+    padding: 20px;
+}
